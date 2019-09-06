@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "engines": {
     "node": "8.1.1",
@@ -23,5 +22,15 @@
     "nodemon": "^1.19.1",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelo1110/emaily.git"
+  },
+  "bugs": {
+    "url": "https://github.com/angelo1110/emaily/issues"
+  },
+  "homepage": "https://github.com/angelo1110/emaily#readme",
+  "description": ""
 }
